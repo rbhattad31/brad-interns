@@ -1,0 +1,5 @@
+print("General form: ax**2+bx+c=0")
+a = int(input("Enter a (a!=0)"))
+b = int(input("Enter b"))
+c = int(input("Enter c"))
+print(f"Equation is  {a}x**2+{b}x+{c}=0")
