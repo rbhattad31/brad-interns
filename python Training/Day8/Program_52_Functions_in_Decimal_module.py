@@ -1,0 +1,16 @@
+import decimal
+
+a = float(input("enter value of a:"))
+b = decimal.Decimal(a).sqrt()
+print("square root of decimal number is: ", b)
+c = float(input("enter value of c: "))
+d = decimal.Decimal(c).exp()
+print("The exponent of decimal number is: ", d)
+e = decimal.Decimal(c).ln()
+print("The natural logarithm of decimal number is: ", e)
+f = decimal.Decimal(a).log10()
+print("The log(base 10) of decimal number is: ", f)
+print(decimal.Decimal(4.9))
+print(decimal.Decimal(6.5))
+print("The minimum number of two numbers is: ", x.min(y))
+print("The maximum number of two numbers is: ", x.max(y))
