@@ -1,0 +1,5 @@
+print("python")
+print("is easy to learn.")
+print()
+print("python", end=" ")
+print("is easy to learn.")
