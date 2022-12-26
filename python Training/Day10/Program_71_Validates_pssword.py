@@ -1,5 +1,4 @@
 import re
-#from getpass import getpass
 
 password = input("enter the password:")
 print(password)
