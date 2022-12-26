@@ -1,0 +1,7 @@
+company	fule-type	num of doors	 body-style	   num of cylinders
+audi			gas		2			sedan		five
+audi			gas		4			wagon		five
+bmw			gas		2			sedan		four
+bmw			gas		2			sedan		four
+mercedes benz	diesel	4			sedan		six
+mercedes benz	diesel	4			wagon	
