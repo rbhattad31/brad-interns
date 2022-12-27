@@ -1,31 +1,29 @@
-import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as company
 
-
-def news():
-    # the target we want to open
-    url = 'http://www.hindustantimes.com/top-news'
-
-    # open with GET method
-    resp = requests.get(url)
-
-    # http_ respone 200 means OK status
-    if resp.status_code == 200:
-        print("Successfully opened the web page")
-        print("The news are as follow :-\n")
-
-        # we need a parser,Python built-in HTML parser is enough .
-        soup = BeautifulSoup(resp.text, 'html.parser')
-
-        # l is the list which contains all the text i.e news
-        l = soup.find("ul", {"class": "searchNews"})
-
-        # now we want to print only the text part of the anchor.
-        # find all the elements of a,i.e anchor
-        for i in l.findAll("a"):
-            print(i.text)
-
-    else:
-        print("Error")
-
-    news()
+html_doc = """
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;
+charset=iso-8859-1">
+<title>Welcome to brad-sol company</title>
+</head>
+<body>
+<h2>This is an example HTML page</h2>
+<p>
+Brad Contech Solutions Private Limited
+We, at BRADSOL, design industry-specific technology solutions to assist our clients with their technology needs. 
+With the fast changing technology trends and fast paced globalization there is a need for greater focus on core 
+competencies and cutting edge technology. That’s where we assist businesses and organizations with technology solutions 
+while allowing them to focus on their core competencies.We engage with our clients at various stages of the IT life 
+cycle – IT Strategy formation, IT roll out, IT Support and IT revamping. We partner with them to understand their 
+overall business – product/ service, unique service offerings and their end goal.
+We execute the plan laid out diligently and dedicatedly until we meet our PROMISED DELIVERABLES.</p>
+<p><a href="https://bradsol.com/">its all about Robotic Process Automation</a></p>
+<p><a href="https://in.linkedin.com/company/bradsol">see linkedin page
+w3resource.com</a></p>
+</body>
+</html>
+"""
+N = company(html_doc, 'html.parser')
+print("href of the first <a> tag:")
+print(N.find('a').attrs['href'])
