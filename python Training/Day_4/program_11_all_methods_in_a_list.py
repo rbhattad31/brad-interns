@@ -12,7 +12,7 @@ List1.extend(List2)
 print(List1)
 List2.extend(List1)
 print(List2)
-# sum - Calculates the sum of all the elements of the List
+# add - Calculates the add of all the elements of the List
 Num = [1, 2, 3, 4, 5]
 print(sum(Num))
 # count-Calculates total occurrence of a given element of List

@@ -1,0 +1,23 @@
+import sys
+from PyQt5.QtWidgets import QApplication, QWidget
+
+app = QApplication(sys.argv)
+root = QWidget()
+root.resize(320, 240)
+root.setWindowTitle('Hello, world!')
+root.show()
+print("=" * 20)
+print(app)
+print("=" * 20)
+print(root)
+print("=" * 20)
+print(app.applicationName())
+print("=" * 20)
+print(app.applicationVersion())
+print("=" * 20)
+print(app.setApplicationName("java"))
+print("=" * 20)
+print(app.setApplicationVersion("3.2"))
+print("=" * 20)
+print(app.allWindows())
+print("=" * 20)

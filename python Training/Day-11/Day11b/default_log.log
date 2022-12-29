@@ -1,0 +1,30 @@
+2022-12-29 14:16:25,462-DEBUG-3235684
+2022-12-29 14:16:25,463-INFO-This is Info
+2022-12-29 14:16:25,463-WARNING-this is warning
+2022-12-29 14:16:25,463-ERROR-This is error
+2022-12-29 14:16:25,463-CRITICAL-This is critical
+2022-12-29 14:16:25,464-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\Users\venkata durga prasad\Documents\GitHub\brad-interns\python Training\Day-11\Day11b\program_11b_logging.py", line 13, in <module>
+    a = 10/0
+ZeroDivisionError: division by zero
+2022-12-29 14:17:21,936-DEBUG-3235684
+2022-12-29 14:17:21,937-INFO-This is Info
+2022-12-29 14:17:21,937-WARNING-this is warning
+2022-12-29 14:17:21,937-ERROR-This is error
+2022-12-29 14:17:21,937-CRITICAL-This is critical
+2022-12-29 14:17:21,937-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\Users\venkata durga prasad\Documents\GitHub\brad-interns\python Training\Day-11\Day11b\program_11b_logging.py", line 13, in <module>
+    a = 10/0
+ZeroDivisionError: division by zero
+2022-12-29 15:24:47,674-DEBUG-3235684
+2022-12-29 15:24:47,675-INFO-This is Info
+2022-12-29 15:24:47,675-WARNING-this is warning
+2022-12-29 15:24:47,675-ERROR-This is error
+2022-12-29 15:24:47,675-CRITICAL-This is critical
+2022-12-29 15:24:47,675-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\Users\venkata durga prasad\Documents\GitHub\brad-interns\python Training\Day-11\Day11b\program_11b_logging.py", line 13, in <module>
+    a = 10/0
+ZeroDivisionError: division by zero
