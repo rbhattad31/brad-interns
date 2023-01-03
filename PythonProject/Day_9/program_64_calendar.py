@@ -6,7 +6,7 @@ print(calendar.month(year, month))
 
 import calendar
 
-print("The calendar of year 2022 is : ")
-print(calendar.calendar(2022, 2, 1, 6))
+print("The calendar of year 2023 is : ")
+print(calendar.calendar(2023, 2, 1, 6))
 print("The starting day number in calendar is : ", end="")
 print(calendar.firstweekday())

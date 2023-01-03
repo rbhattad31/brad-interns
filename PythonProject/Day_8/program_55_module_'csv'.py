@@ -14,7 +14,7 @@ with open(filename, 'r') as csvfile:
         rows.append(row)
 
     # get total number of rows
-    print("Total no. of rows: %d" % (csvreader.line_num))
+    print("subtotal no. of rows: %d" % (csvreader.line_num))
 
 # printing the field names
 print('Field names are:' + ', '.join(field for field in fields))
