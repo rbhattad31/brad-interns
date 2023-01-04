@@ -2,7 +2,8 @@ a=[1,2,3,4,5]
 b=["Ayush","Bhattad"]
 a.append(6)
 b.append("BradSol")
-#a.clear()
+print(b)
+
 #b.clear()
 a.copy()
 b.copy()
