@@ -5,5 +5,12 @@ for i in range(3):
 for j in range(3,6):
     print("%s 2022-Q1 FY 2022-23" %(months[j]))
 
-for k in range(7,10):
+for k in range(6,9):
+    print("%s 2022-Q2 FY 2022-23" %(months[k]))
+
+for m in range(9,12):
+    print("%s 2022-Q3 FY 2022-23" %(months[m]))
+
+
+
     
