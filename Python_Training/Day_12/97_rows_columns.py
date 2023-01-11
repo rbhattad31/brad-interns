@@ -5,5 +5,11 @@ exam_data  = {'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Mich
         'attempts': [1, 3, 2, 3, 2, 3, 1, 1, 2, 1],
         'qualify': ['yes', 'no', 'yes', 'no', 'no', 'yes', 'yes', 'no', 'no', 'yes']}
 df=pd.DataFrame(exam_data)
-df['score']=df['score'].apply(lambda x:'{0:0>9}'.format(x))
-print(df)
+#first two rows
+print(df.head(2))
+print('\n')
+# first two columns
+print(df.iloc[0:2,0:2])
+print('\n')
+#specific
+print(df[['attempts','qualify']])
