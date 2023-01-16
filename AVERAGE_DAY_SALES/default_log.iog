@@ -1,0 +1,153 @@
+2023-01-07 08:00:06,723::INFO::Sending Notification mail
+2023-01-07 08:00:06,724::INFO::Attachment is valid file
+2023-01-07 08:00:06,724::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-07 08:00:06,735::DEBUG::attachment is added to the mail compose
+2023-01-07 08:00:07,768::DEBUG::SMTP connection is established
+2023-01-07 08:00:07,833::INFO::Notification mail has been sent
+2023-01-07 08:01:10,376::INFO::testing logging
+2023-01-07 08:01:26,124::INFO::Sending Notification mail
+2023-01-07 08:01:26,124::INFO::Attachment is valid file
+2023-01-07 08:01:26,125::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-07 08:01:26,133::DEBUG::attachment is added to the mail compose
+2023-01-07 08:01:26,903::DEBUG::SMTP connection is established
+2023-01-07 08:01:26,963::INFO::Notification mail has been sent
+2023-01-07 16:44:04,684::INFO::testing logging
+2023-01-07 16:44:19,234::INFO::Sending Notification mail
+2023-01-07 16:44:19,234::INFO::Attachment is valid file
+2023-01-07 16:44:19,236::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-07 16:44:19,258::DEBUG::attachment is added to the mail compose
+2023-01-07 16:44:21,060::DEBUG::SMTP connection is established
+2023-01-07 16:44:21,124::INFO::Notification mail has been sent
+2023-01-07 16:49:59,880::INFO::testing logging
+2023-01-07 16:50:14,564::INFO::Sending Notification mail
+2023-01-07 16:50:14,565::INFO::Attachment is valid file
+2023-01-07 16:50:14,565::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-07 16:50:14,579::DEBUG::attachment is added to the mail compose
+2023-01-07 16:50:22,999::DEBUG::SMTP connection is established
+2023-01-07 16:50:23,062::INFO::Notification mail has been sent
+2023-01-07 17:28:22,598::INFO::testing logging
+2023-01-07 17:28:40,641::INFO::Sending Notification mail
+2023-01-07 17:28:40,641::INFO::Attachment is valid file
+2023-01-07 17:28:40,641::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-07 17:28:40,650::DEBUG::attachment is added to the mail compose
+2023-01-07 17:28:42,050::DEBUG::SMTP connection is established
+2023-01-07 17:28:42,173::INFO::Notification mail has been sent
+2023-01-08 12:13:46,291::INFO::testing logging
+2023-01-08 12:14:02,521::INFO::Sending Notification mail
+2023-01-08 12:14:02,522::INFO::Attachment is valid file
+2023-01-08 12:14:02,522::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-08 12:14:02,535::DEBUG::attachment is added to the mail compose
+2023-01-08 12:14:05,202::DEBUG::SMTP connection is established
+2023-01-08 12:14:05,268::INFO::Notification mail has been sent
+2023-01-08 12:18:47,555::INFO::testing logging
+2023-01-08 12:19:03,850::INFO::Sending Notification mail
+2023-01-08 12:19:03,850::INFO::Attachment is valid file
+2023-01-08 12:19:03,850::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-08 12:19:03,860::DEBUG::attachment is added to the mail compose
+2023-01-08 12:19:06,432::DEBUG::SMTP connection is established
+2023-01-08 12:19:06,498::INFO::Notification mail has been sent
+2023-01-08 12:20:10,926::INFO::testing logging
+2023-01-08 12:20:28,691::INFO::Sending Notification mail
+2023-01-08 12:20:28,692::INFO::Attachment is valid file
+2023-01-08 12:20:28,692::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-08 12:20:28,709::DEBUG::attachment is added to the mail compose
+2023-01-08 12:20:31,288::DEBUG::SMTP connection is established
+2023-01-08 12:20:31,353::INFO::Notification mail has been sent
+2023-01-09 14:55:25,315::INFO::testing logging
+2023-01-09 14:55:25,391::ERROR::Exception occurred while loading Config Excel file sheet
+2023-01-09 14:55:25,391::ERROR::Exception occurred while reading Config file in path
+2023-01-09 14:55:25,391::ERROR::Below exception occurred while config main creation
+2023-01-09 14:56:01,127::INFO::testing logging
+2023-01-09 14:56:01,189::ERROR::Exception occurred while loading Config Excel file sheet
+2023-01-09 14:56:01,189::ERROR::Exception occurred while reading Config file in path
+2023-01-09 14:56:01,189::ERROR::Below exception occurred while config main creation
+2023-01-09 15:01:35,326::INFO::testing logging
+2023-01-09 15:01:50,414::INFO::Sending Notification mail
+2023-01-09 15:01:50,415::INFO::Attachment is valid file
+2023-01-09 15:01:50,415::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-09 15:01:50,423::DEBUG::attachment is added to the mail compose
+2023-01-09 15:01:50,772::DEBUG::SMTP connection is established
+2023-01-09 15:01:50,794::INFO::Notification mail has been sent
+2023-01-09 15:26:16,832::INFO::testing logging
+2023-01-09 15:26:32,839::INFO::Sending Notification mail
+2023-01-09 15:26:32,839::INFO::Attachment is valid file
+2023-01-09 15:26:32,840::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-09 15:26:32,849::DEBUG::attachment is added to the mail compose
+2023-01-09 15:26:33,324::DEBUG::SMTP connection is established
+2023-01-09 15:26:33,344::INFO::Notification mail has been sent
+2023-01-09 15:30:03,053::INFO::testing logging
+2023-01-09 15:30:24,066::INFO::Sending Notification mail
+2023-01-09 15:30:24,067::INFO::Attachment is valid file
+2023-01-09 15:30:24,067::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-09 15:30:24,078::DEBUG::attachment is added to the mail compose
+2023-01-09 15:30:24,522::DEBUG::SMTP connection is established
+2023-01-09 15:30:24,853::INFO::Notification mail has been sent
+2023-01-10 12:41:28,003::INFO::testing logging
+2023-01-10 12:41:43,736::INFO::Sending Notification mail
+2023-01-10 12:41:43,737::INFO::Attachment is valid file
+2023-01-10 12:41:43,739::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-10 12:41:43,758::DEBUG::attachment is added to the mail compose
+2023-01-10 12:41:44,174::DEBUG::SMTP connection is established
+2023-01-10 12:41:44,402::INFO::Notification mail has been sent
+2023-01-11 11:16:14,035::INFO::testing logging
+2023-01-11 11:16:29,726::INFO::Sending Notification mail
+2023-01-11 11:16:29,726::INFO::Attachment is valid file
+2023-01-11 11:16:29,727::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-11 11:16:29,745::DEBUG::attachment is added to the mail compose
+2023-01-11 11:16:30,195::DEBUG::SMTP connection is established
+2023-01-11 11:16:30,405::INFO::Notification mail has been sent
+2023-01-11 11:17:50,314::INFO::testing logging
+2023-01-11 11:18:04,827::INFO::Sending Notification mail
+2023-01-11 11:18:04,827::INFO::Attachment is valid file
+2023-01-11 11:18:04,827::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-11 11:18:04,838::DEBUG::attachment is added to the mail compose
+2023-01-11 11:18:07,530::DEBUG::SMTP connection is established
+2023-01-11 11:18:09,051::INFO::Notification mail has been sent
+2023-01-11 11:23:39,762::INFO::testing logging
+2023-01-11 11:23:56,241::INFO::Sending Notification mail
+2023-01-11 11:23:56,241::INFO::Attachment is valid file
+2023-01-11 11:23:56,241::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-11 11:23:56,248::DEBUG::attachment is added to the mail compose
+2023-01-11 11:23:56,723::DEBUG::SMTP connection is established
+2023-01-11 11:23:57,104::INFO::Notification mail has been sent
+2023-01-11 17:07:14,728::INFO::testing logging
+2023-01-11 17:07:35,760::INFO::Sending Notification mail
+2023-01-11 17:07:36,124::DEBUG::SMTP connection is established
+2023-01-11 17:07:36,476::INFO::Notification mail has been sent
+2023-01-11 17:08:40,184::INFO::testing logging
+2023-01-11 17:08:55,663::INFO::Sending Notification mail
+2023-01-11 17:08:55,663::INFO::Attachment is valid file
+2023-01-11 17:08:55,664::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-11 17:08:55,674::DEBUG::attachment is added to the mail compose
+2023-01-11 17:08:56,019::DEBUG::SMTP connection is established
+2023-01-11 17:08:56,268::INFO::Notification mail has been sent
+2023-01-11 17:10:16,786::INFO::testing logging
+2023-01-11 17:10:33,376::INFO::Sending Notification mail
+2023-01-11 17:10:33,376::INFO::Attachment is valid file
+2023-01-11 17:10:33,377::DEBUG::Attachment C:\Users\BRADSOL\Documents\GitHub\brad-interns\AVERAGE_DAY_SALES\output.xlsx file path provided is a valid file
+2023-01-11 17:10:33,386::DEBUG::attachment is added to the mail compose
+2023-01-11 17:10:33,748::DEBUG::SMTP connection is established
+2023-01-11 17:10:34,054::INFO::Notification mail has been sent
+2023-01-11 17:34:40,787::INFO::testing logging
+2023-01-11 17:34:57,340::ERROR::sales register contains data of more than 3 months for a quarter. hence stopping the bot
+2023-01-11 17:34:57,340::INFO::Sending Notification mail
+2023-01-11 17:34:58,090::DEBUG::SMTP connection is established
+2023-01-11 17:34:58,321::INFO::Notification mail has been sent
+2023-01-11 17:37:20,841::INFO::testing logging
+2023-01-11 17:37:39,724::ERROR::Exception occurred while creating month column from billing date that be due to values other than dates
+2023-01-11 17:37:39,725::INFO::Sending Notification mail
+2023-01-11 17:37:40,043::DEBUG::SMTP connection is established
+2023-01-11 17:37:40,227::INFO::Notification mail has been sent
+2023-01-11 17:39:21,610::INFO::testing logging
+2023-01-11 17:39:21,611::ERROR::Exception occurred while reading Config file in path
+2023-01-11 17:39:21,611::ERROR::Below exception occurred while config main creation
+2023-01-11 17:41:29,850::INFO::testing logging
+2023-01-11 17:41:49,684::ERROR::Exception occurred while loading Config Excel file sheet
+2023-01-11 17:41:49,685::ERROR::Exception occurred while reading Config file in path
+2023-01-11 17:41:49,685::ERROR::Below exception occurred while config main creation
+2023-01-11 17:45:53,229::INFO::testing logging
+2023-01-11 17:46:13,333::ERROR::Exception occurred while calculating sum of values in base price column
+2023-01-11 17:46:13,348::INFO::Sending Notification mail
+2023-01-11 17:46:14,828::DEBUG::SMTP connection is established
+2023-01-11 17:46:15,089::INFO::Notification mail has been sent
+2023-01-11 17:51:39,708::INFO::testing logging
